@@ -1,6 +1,3 @@
 *
-!/.config
-!/.config/fontconfig
 !/.config/fontconfig/fonts.conf
-!/.gitignore.d
 !/.gitignore.d/fontconfig
